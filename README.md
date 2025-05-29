@@ -1,6 +1,4 @@
-Your README.md currently has some formatting issues, mainly caused by unnecessary code block markers and some inconsistent section breaks. Here’s a cleaned-up and properly formatted version:
 
----
 
 # Machine Vision & IoT System for Palm Fruit Ripeness Classification 🍊🌴
 
